@@ -23,21 +23,15 @@
 <p align="center">
 
   <a href="https://portfolio-byk8.onrender.com">
-
     <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge" alt="Portfolio" />
-
   </a>
 
   <a href="https://github.com/1096sakemaruthi">
-
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
-
   </a>
 
   <a href="https://www.linkedin.com/in/maruthi5f9/">
-
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-
   </a>
 
 </p>
@@ -53,17 +47,11 @@ I enjoy building practical web applications, learning new technologies, solving 
 I'm currently focused on improving my skills in:
 
 - Frontend Development
-
 - Backend Development
-
 - Java & Spring Boot
-
 - React.js
-
 - REST APIs
-
 - MySQL
-
 - Full Stack Application Development
 
 ---
@@ -73,15 +61,10 @@ I'm currently focused on improving my skills in:
 This portfolio showcases my:
 
 - 💻 Development skills
-
 - 📂 Real-world projects
-
 - 🎓 Education
-
 - 📜 Certifications
-
 - 📄 Resume
-
 - 📬 Contact information
 
 The portfolio is designed with a modern **professional + futuristic developer style**, combining clean layouts, glassmorphism, gradients, animations, and interactive elements.
@@ -93,27 +76,18 @@ The portfolio is designed with a modern **professional + futuristic developer st
 ### Frontend
 
 - HTML5
-
 - CSS3
-
 - JavaScript
-
 - React.js
-
 - React Router
-
 - Vite
 
 ### Backend
 
 - Java
-
 - Spring Boot
-
 - REST APIs
-
 - Node.js
-
 - Express.js
 
 ### Database
@@ -123,11 +97,8 @@ The portfolio is designed with a modern **professional + futuristic developer st
 ### Tools
 
 - Git
-
 - GitHub
-
 - VS Code
-
 - Render
 
 ---
@@ -145,40 +116,29 @@ A full-stack chocolate distribution management application developed for managin
 **Features:**
 
 - Customer registration and login
-
 - Product browsing
-
 - Shopping cart
-
 - Place orders
-
 - Order history
-
 - Order details
-
 - Order cancellation
-
 - Admin dashboard
-
 - Product management
-
 - Customer management
-
 - Order management
-
 - Order status management
-
 - Reports
-
 - Admin password reset
 
-🔗 **GitHub:**  
+<p>
+  <a href="https://github.com/1096sakemaruthi/RK-Choco-Distributors">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="CDMS GitHub Repository" />
+  </a>
 
-https://github.com/1096sakemaruthi/RK-Choco-Distributors
-
-🔗 **Live Demo:**  
-
-https://cdms-frontend-3bom.onrender.com
+  <a href="https://cdms-frontend-3bom.onrender.com">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" alt="CDMS Live Demo" />
+  </a>
+</p>
 
 ---
 
@@ -193,22 +153,20 @@ A weather application that provides weather information using an external weathe
 **Features:**
 
 - Search weather information
-
 - Real-time weather data
-
 - API integration
-
 - Responsive interface
-
 - Backend API integration
 
-🔗 **GitHub:**  
+<p>
+  <a href="https://github.com/1096sakemaruthi/weather-report-simple">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="Weather GitHub Repository" />
+  </a>
 
-https://github.com/1096sakemaruthi/weather-report-simple
-
-🔗 **Live Demo:**  
-
-https://weather-report-simple.onrender.com
+  <a href="https://weather-report-simple.onrender.com">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" alt="Weather Live Demo" />
+  </a>
+</p>
 
 ---
 
@@ -216,7 +174,7 @@ https://weather-report-simple.onrender.com
 
 **B.Tech — Computer Science & Engineering**
 
-Sri Venkatesa Perumal College of Engineering & Technology  
+Sri Venkatesa Perumal College of Engineering & Technology
 
 2023 – 2027
 
@@ -235,15 +193,10 @@ Completed: **May 2026**
 ## 💡 Strengths
 
 - Problem Solving
-
 - Logical Thinking
-
 - Communication Skills
-
 - Teamwork
-
 - Quick Learning
-
 - Continuous Learning
 
 ---
@@ -252,25 +205,29 @@ Completed: **May 2026**
 
 My resume is available inside this repository.
 
-**Resume:**  
-
-`public/resume.pdf`
+<p>
+  <a href="./public/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View%20Resume-red?style=for-the-badge&logo=adobeacrobatreader" alt="View Resume" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:**  
+<p>
+  <a href="mailto:1096sakemaruthi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 
-1096sakemaruthi@gmail.com
+  <a href="https://www.linkedin.com/in/maruthi5f9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 
-💼 **LinkedIn:**  
-
-https://www.linkedin.com/in/maruthi5f9/
-
-🐙 **GitHub:**  
-
-https://github.com/1096sakemaruthi
+  <a href="https://github.com/1096sakemaruthi">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
