@@ -1,3 +1,4 @@
+
 import React from "react";
 
 import {
@@ -57,7 +58,8 @@ function Projects() {
 
       image: cdmsImage,
 
-      github: "https://github.com/",
+      github:
+        "https://github.com/1096sakemaruthi/RK-Choco-Distributors",
       live: "https://cdms-frontend-3bom.onrender.com",
     },
 
@@ -301,3 +303,4 @@ function Projects() {
 }
 
 export default Projects;
+

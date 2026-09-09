@@ -57,13 +57,13 @@ function ProjectDetails() {
     >
       <div className="container">
 
-        {/* Back to Projects */}
+        {/* Back to Home */}
         <a
-          href="/"
+          href="/#projects"
           className="project-back-btn"
         >
           <FaArrowLeft />
-          <span>Back to Projects</span>
+          <span>Back to Home</span>
         </a>
 
         {/* Project Heading */}
@@ -129,7 +129,7 @@ function ProjectDetails() {
             <div className="project-details-buttons">
 
               <a
-                href="https://github.com/"
+                href="https://github.com/1096sakemaruthi/RK-Choco-Distributors"
                 target="_blank"
                 rel="noreferrer"
                 className="details-btn details-btn-primary"
