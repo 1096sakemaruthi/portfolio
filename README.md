@@ -1,29 +1,45 @@
 # S.MARUTHI — Personal Developer Portfolio
 
 <p align="center">
+
   <img src="./src/assets/profile.png" alt="S.Maruthi" width="160" />
+
 </p>
 
 <h2 align="center">Hi, I'm S.Maruthi 👋</h2>
 
 <p align="center">
+
   <b>B.Tech CSE Student | Full Stack Developer</b>
+
 </p>
 
 <p align="center">
+
   I build intelligent digital experiences with modern web technologies.
+
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+
+  <a href="https://portfolio-byk8.onrender.com">
+
     <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge" alt="Portfolio" />
+
   </a>
+
   <a href="https://github.com/1096sakemaruthi">
+
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
+
   </a>
+
   <a href="https://www.linkedin.com/in/maruthi5f9/">
+
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+
   </a>
+
 </p>
 
 ---
@@ -37,11 +53,17 @@ I enjoy building practical web applications, learning new technologies, solving 
 I'm currently focused on improving my skills in:
 
 - Frontend Development
+
 - Backend Development
+
 - Java & Spring Boot
+
 - React.js
+
 - REST APIs
+
 - MySQL
+
 - Full Stack Application Development
 
 ---
@@ -51,10 +73,15 @@ I'm currently focused on improving my skills in:
 This portfolio showcases my:
 
 - 💻 Development skills
+
 - 📂 Real-world projects
+
 - 🎓 Education
+
 - 📜 Certifications
+
 - 📄 Resume
+
 - 📬 Contact information
 
 The portfolio is designed with a modern **professional + futuristic developer style**, combining clean layouts, glassmorphism, gradients, animations, and interactive elements.
@@ -66,18 +93,27 @@ The portfolio is designed with a modern **professional + futuristic developer st
 ### Frontend
 
 - HTML5
+
 - CSS3
+
 - JavaScript
+
 - React.js
+
 - React Router
+
 - Vite
 
 ### Backend
 
 - Java
+
 - Spring Boot
+
 - REST APIs
+
 - Node.js
+
 - Express.js
 
 ### Database
@@ -87,8 +123,11 @@ The portfolio is designed with a modern **professional + futuristic developer st
 ### Tools
 
 - Git
+
 - GitHub
+
 - VS Code
+
 - Render
 
 ---
@@ -106,24 +145,39 @@ A full-stack chocolate distribution management application developed for managin
 **Features:**
 
 - Customer registration and login
+
 - Product browsing
+
 - Shopping cart
+
 - Place orders
+
 - Order history
+
 - Order details
+
 - Order cancellation
+
 - Admin dashboard
+
 - Product management
+
 - Customer management
+
 - Order management
+
 - Order status management
+
 - Reports
+
 - Admin password reset
 
 🔗 **GitHub:**  
+
 https://github.com/1096sakemaruthi/RK-Choco-Distributors
 
 🔗 **Live Demo:**  
+
 https://cdms-frontend-3bom.onrender.com
 
 ---
@@ -139,15 +193,21 @@ A weather application that provides weather information using an external weathe
 **Features:**
 
 - Search weather information
+
 - Real-time weather data
+
 - API integration
+
 - Responsive interface
+
 - Backend API integration
 
 🔗 **GitHub:**  
+
 https://github.com/1096sakemaruthi/weather-report-simple
 
 🔗 **Live Demo:**  
+
 https://weather-report-simple.onrender.com
 
 ---
@@ -157,6 +217,7 @@ https://weather-report-simple.onrender.com
 **B.Tech — Computer Science & Engineering**
 
 Sri Venkatesa Perumal College of Engineering & Technology  
+
 2023 – 2027
 
 ---
@@ -174,10 +235,15 @@ Completed: **May 2026**
 ## 💡 Strengths
 
 - Problem Solving
+
 - Logical Thinking
+
 - Communication Skills
+
 - Teamwork
+
 - Quick Learning
+
 - Continuous Learning
 
 ---
@@ -187,6 +253,7 @@ Completed: **May 2026**
 My resume is available inside this repository.
 
 **Resume:**  
+
 `public/resume.pdf`
 
 ---
@@ -194,12 +261,15 @@ My resume is available inside this repository.
 ## 📫 Connect With Me
 
 📧 **Email:**  
+
 1096sakemaruthi@gmail.com
 
 💼 **LinkedIn:**  
+
 https://www.linkedin.com/in/maruthi5f9/
 
 🐙 **GitHub:**  
+
 https://github.com/1096sakemaruthi
 
 ---
@@ -213,5 +283,7 @@ If you find my projects interesting, feel free to explore the repositories and c
 ---
 
 <p align="center">
+
   Made with ❤️ by <b>S.Maruthi</b>
+
 </p>
