@@ -1,17 +1,14 @@
 import React from "react";
 
 import {
-  FaHtml5,
-  FaCss3Alt,
-  FaJs,
-  FaReact,
-  FaJava,
+  FaPython,
   FaGitAlt,
   FaGithub,
   FaCode,
+  FaLinkedin,
 } from "react-icons/fa";
 
-import { SiSpringboot, SiMysql } from "react-icons/si";
+import { SiMysql } from "react-icons/si";
 
 import "./Skills.css";
 
@@ -19,48 +16,20 @@ function Skills() {
   const skillCategories = [
     {
       number: "01",
-      title: "Frontend",
-      description: "Modern & responsive interfaces",
+      title: "Programming",
+      description: "Programming fundamentals",
       skills: [
         {
-          name: "HTML",
-          icon: <FaHtml5 />,
-        },
-        {
-          name: "CSS",
-          icon: <FaCss3Alt />,
-        },
-        {
-          name: "JavaScript",
-          icon: <FaJs />,
-        },
-        {
-          name: "React",
-          icon: <FaReact />,
+          name: "Python",
+          icon: <FaPython />,
         },
       ],
     },
 
     {
       number: "02",
-      title: "Backend",
-      description: "APIs & application logic",
-      skills: [
-        {
-          name: "Java",
-          icon: <FaJava />,
-        },
-        {
-          name: "Spring Boot",
-          icon: <SiSpringboot />,
-        },
-      ],
-    },
-
-    {
-      number: "03",
       title: "Database",
-      description: "Structured data management",
+      description: "Database fundamentals",
       skills: [
         {
           name: "MySQL",
@@ -70,7 +39,7 @@ function Skills() {
     },
 
     {
-      number: "04",
+      number: "03",
       title: "Tools",
       description: "Development & version control",
       skills: [
@@ -85,6 +54,10 @@ function Skills() {
         {
           name: "VS Code",
           icon: <FaCode />,
+        },
+        {
+          name: "LinkedIn",
+          icon: <FaLinkedin />,
         },
       ],
     },

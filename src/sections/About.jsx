@@ -6,11 +6,13 @@ import {
   FaLaptopCode,
   FaProjectDiagram,
   FaRocket,
-  FaReact,
-  FaJava,
+  FaPython,
+  FaGitAlt,
+  FaGithub,
+  FaCodeBranch,
   FaLightbulb,
 } from "react-icons/fa";
-import { SiSpringboot, SiMysql } from "react-icons/si";
+import { SiMysql } from "react-icons/si";
 import "./About.css";
 
 function About() {
@@ -78,7 +80,7 @@ function About() {
                 </div>
 
                 <span className="visual-file">
-                  developer.js
+                  maruthi.py
                 </span>
 
               </div>
@@ -91,11 +93,7 @@ function About() {
                   <span className="line-number">01</span>
 
                   <span className="code-purple">
-                    const
-                  </span>
-
-                  <span className="code-white">
-                    {" "}developer
+                    profile
                   </span>
 
                   <span className="code-blue">
@@ -129,7 +127,7 @@ function About() {
                   </span>
 
                   <span className="code-orange">
-                    {" "}Full Stack Developer
+                    {" "}Fresher
                   </span>
                 </div>
 
@@ -185,16 +183,16 @@ function About() {
 
               {/* Floating Tech Icons */}
 
-              <div className="tech-orbit tech-orbit-react">
-                <FaReact />
+              <div className="tech-orbit tech-orbit-python">
+                <FaPython />
               </div>
 
-              <div className="tech-orbit tech-orbit-java">
-                <FaJava />
+              <div className="tech-orbit tech-orbit-git">
+                <FaGitAlt />
               </div>
 
-              <div className="tech-orbit tech-orbit-spring">
-                <SiSpringboot />
+              <div className="tech-orbit tech-orbit-github">
+                <FaGithub />
               </div>
 
               <div className="tech-orbit tech-orbit-mysql">
@@ -259,7 +257,7 @@ function About() {
 
             {/* Role */}
             <div className="profile-role">
-              Full Stack Developer &amp; Tech Enthusiast
+              Fresher &amp; Technology Learner
             </div>
 
 
@@ -271,10 +269,11 @@ function About() {
               </div>
 
               <p>
-                I am a passionate Computer Science and Engineering student
-                interested in full stack web development. I enjoy building
-                modern, responsive and user-friendly web applications and
-                turning ideas into practical real-world solutions.
+                I am a B.Tech Computer Science and Engineering student
+                and a passionate learner. I have a foundation in Python
+                and MySQL, and I am continuously improving my technical
+                skills, problem-solving abilities and practical knowledge
+                through learning and projects.
               </p>
 
             </div>
@@ -296,32 +295,12 @@ function About() {
 
               <div className="focus-items">
 
-                {/* React */}
-                <div className="focus-card focus-react">
+                {/* Python */}
+                <div className="focus-card focus-python">
 
-                  <FaReact />
+                  <FaPython />
 
-                  <span>React</span>
-
-                </div>
-
-
-                {/* Java */}
-                <div className="focus-card focus-java">
-
-                  <FaJava />
-
-                  <span>Java</span>
-
-                </div>
-
-
-                {/* Spring Boot */}
-                <div className="focus-card focus-spring">
-
-                  <SiSpringboot />
-
-                  <span>Spring Boot</span>
+                  <span>Python</span>
 
                 </div>
 
@@ -332,6 +311,26 @@ function About() {
                   <SiMysql />
 
                   <span>MySQL</span>
+
+                </div>
+
+
+                {/* Git */}
+                <div className="focus-card focus-git">
+
+                  <FaGitAlt />
+
+                  <span>Git</span>
+
+                </div>
+
+
+                {/* GitHub */}
+                <div className="focus-card focus-github">
+
+                  <FaGithub />
+
+                  <span>GitHub</span>
 
                 </div>
 
@@ -381,11 +380,11 @@ function About() {
               <strong>04+</strong>
 
               <span>
-                Technologies
+                Skills &amp; Tools
               </span>
 
               <small>
-                I work with
+                I am learning
               </small>
 
             </div>
@@ -423,7 +422,7 @@ function About() {
           <div className="stat-divider"></div>
 
 
-          {/* Passion */}
+          {/* Learning */}
           <div className="about-stat">
 
             <div className="stat-icon stat-pink">
@@ -435,11 +434,11 @@ function About() {
               <strong>100%</strong>
 
               <span>
-                Passion for
+                Focus on
               </span>
 
               <small>
-                Building
+                Learning &amp; Growth
               </small>
 
             </div>

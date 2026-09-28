@@ -1,3 +1,4 @@
+
 /* =====================================================
    HERO
 ===================================================== */
@@ -525,38 +526,47 @@
   font-size: 1.15rem;
 }
 
-.badge-react {
+/* NEW SKILL BADGES */
+
+.badge-python {
   top: 14%;
   left: 3%;
-  color: #61dafb;
+  color: #60a5fa;
 }
 
-.badge-java {
-  top: 31%;
+.badge-mysql {
+  top: 30%;
   right: 0%;
-  color: #f89820;
+  color: #38bdf8;
   animation-delay: 0.7s;
 }
 
-.badge-db {
-  bottom: 23%;
+.badge-git {
+  bottom: 25%;
   left: 0%;
-  color: #38bdf8;
+  color: #f97316;
   animation-delay: 1.2s;
 }
 
-.badge-code {
+.badge-github {
   bottom: 11%;
   right: 5%;
-  color: #60a5fa;
+  color: #e2e8f0;
   animation-delay: 1.8s;
 }
 
-.badge-spring {
+.badge-vscode {
   top: 6%;
   right: 23%;
-  color: #6db33f;
+  color: #38bdf8;
   animation-delay: 2.3s;
+}
+
+.badge-linkedin {
+  bottom: 43%;
+  right: -2%;
+  color: #38bdf8;
+  animation-delay: 2.8s;
 }
 
 @keyframes badgeFloat {
@@ -722,25 +732,30 @@
     font-size: 0.7rem;
   }
 
-  .badge-react {
+  .badge-python {
     left: 0;
   }
 
-  .badge-java {
+  .badge-mysql {
     right: 0;
   }
 
-  .badge-db {
+  .badge-git {
     left: 0;
   }
 
-  .badge-code {
+  .badge-github {
     right: 0;
   }
 
-  .badge-spring {
+  .badge-vscode {
     top: 2%;
     right: 12%;
+  }
+
+  .badge-linkedin {
+    bottom: 40%;
+    right: 0;
   }
 
   .hero-scroll {
@@ -756,3 +771,4 @@
     animation: none !important;
   }
 }
+

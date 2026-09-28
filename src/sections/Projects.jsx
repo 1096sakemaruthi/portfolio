@@ -1,20 +1,10 @@
-
 import React from "react";
 
 import {
   FaGithub,
   FaExternalLinkAlt,
   FaArrowRight,
-  FaReact,
-  FaJava,
 } from "react-icons/fa";
-
-import {
-  SiSpringboot,
-  SiMysql,
-  SiNodedotjs,
-  SiExpress,
-} from "react-icons/si";
 
 import "./Projects.css";
 
@@ -27,27 +17,9 @@ function Projects() {
       number: "01",
       title: "Chocolate Distribution Management System",
       shortTitle: "CDMS",
-      description:
-        "A full-stack web application designed to manage chocolate products, customers, orders and distribution operations through a modern and user-friendly interface.",
 
-      technologies: [
-        {
-          name: "React",
-          icon: <FaReact />,
-        },
-        {
-          name: "Java",
-          icon: <FaJava />,
-        },
-        {
-          name: "Spring Boot",
-          icon: <SiSpringboot />,
-        },
-        {
-          name: "MySQL",
-          icon: <SiMysql />,
-        },
-      ],
+      description:
+        "A project designed to manage chocolate products, customers, orders and distribution operations through an organized management system.",
 
       features: [
         "Product Management",
@@ -60,6 +32,7 @@ function Projects() {
 
       github:
         "https://github.com/1096sakemaruthi/RK-Choco-Distributors",
+
       live: "https://cdms-frontend-3bom.onrender.com",
     },
 
@@ -67,33 +40,15 @@ function Projects() {
       number: "02",
       title: "Weather Report",
       shortTitle: "Weather Report",
-      description:
-        "A modern weather application that provides current weather information, forecasts and useful weather details for different cities.",
 
-      technologies: [
-        {
-          name: "React",
-          icon: <FaReact />,
-        },
-        {
-          name: "Node.js",
-          icon: <SiNodedotjs />,
-        },
-        {
-          name: "Express.js",
-          icon: <SiExpress />,
-        },
-        {
-          name: "MySQL",
-          icon: <SiMysql />,
-        },
-      ],
+      description:
+        "A weather-related project created to display useful weather information and details for different cities.",
 
       features: [
         "City Search",
-        "Current Location",
-        "Weather Forecast",
+        "Weather Information",
         "Weather Details",
+        "User-Friendly Interface",
       ],
 
       image: weatherImage,
@@ -128,7 +83,7 @@ function Projects() {
 
           <p>
             A selection of projects that showcase my
-            development skills, technical knowledge and
+            learning, practical knowledge and
             problem-solving approach.
           </p>
 
@@ -187,7 +142,7 @@ function Projects() {
                 <div className="project-top">
 
                   <span className="project-category">
-                    FULL STACK WEB APPLICATION
+                    PROJECT
                   </span>
 
                   <h3>
@@ -197,33 +152,6 @@ function Projects() {
                   <p>
                     {project.description}
                   </p>
-
-                </div>
-
-
-                {/* Technologies */}
-                <div className="project-tech">
-
-                  {project.technologies.map(
-                    (technology) => (
-
-                      <div
-                        className="project-tech-item"
-                        key={technology.name}
-                      >
-
-                        <span className="project-tech-icon">
-                          {technology.icon}
-                        </span>
-
-                        <span>
-                          {technology.name}
-                        </span>
-
-                      </div>
-
-                    )
-                  )}
 
                 </div>
 
@@ -303,4 +231,3 @@ function Projects() {
 }
 
 export default Projects;
-

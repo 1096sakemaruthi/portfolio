@@ -1,26 +1,28 @@
+
 import React, { useEffect, useState } from "react";
 import {
   FaGithub,
   FaLinkedinIn,
   FaEnvelope,
-  FaReact,
-  FaJava,
-  FaDatabase,
+  FaPython,
+  FaGitAlt,
+  FaGithubAlt,
   FaCode,
+  FaLinkedin,
   FaArrowRight,
 } from "react-icons/fa";
 
-import { SiSpringboot } from "react-icons/si";
+import { SiMysql } from "react-icons/si";
 
 import "./Hero.css";
 import profileImage from "../assets/profile.png";
 
 function Hero() {
   const roles = [
-    "Full Stack Developer",
-    "React Developer",
-    "Java Developer",
+    "Fresher",
+    "Quick Learner",
     "Problem Solver",
+    "Learning New Technical Skills",
   ];
 
   const [roleIndex, setRoleIndex] = useState(0);
@@ -95,7 +97,7 @@ function Hero() {
 
           {/* MAIN TITLE */}
           <h2 className="hero-main-title">
-            I build intelligent digital experiences.
+            I am a passionate learner building my technical skills.
           </h2>
 
           {/* Typing Role */}
@@ -105,9 +107,11 @@ function Hero() {
             <span className="typing-cursor">|</span>
           </div>
 
+          {/* Description */}
           <p className="hero-description">
-            I build modern, responsive and user-friendly web
-            applications using React, Java, Spring Boot and MySQL.
+            I am a passionate learner with a foundation in Python
+            and MySQL, continuously developing my technical skills
+            and problem-solving abilities.
           </p>
 
           {/* Buttons */}
@@ -189,29 +193,34 @@ function Hero() {
 
           {/* TECH BADGES */}
 
-          <div className="tech-badge badge-react">
-            <FaReact />
-            <span>React</span>
+          <div className="tech-badge badge-python">
+            <FaPython />
+            <span>Python</span>
           </div>
 
-          <div className="tech-badge badge-java">
-            <FaJava />
-            <span>Java</span>
-          </div>
-
-          <div className="tech-badge badge-db">
-            <FaDatabase />
+          <div className="tech-badge badge-mysql">
+            <SiMysql />
             <span>MySQL</span>
           </div>
 
-          <div className="tech-badge badge-code">
-            <FaCode />
-            <span>Code</span>
+          <div className="tech-badge badge-git">
+            <FaGitAlt />
+            <span>Git</span>
           </div>
 
-          <div className="tech-badge badge-spring">
-            <SiSpringboot />
-            <span>Spring</span>
+          <div className="tech-badge badge-github">
+            <FaGithubAlt />
+            <span>GitHub</span>
+          </div>
+
+          <div className="tech-badge badge-vscode">
+            <FaCode />
+            <span>VS Code</span>
+          </div>
+
+          <div className="tech-badge badge-linkedin">
+            <FaLinkedin />
+            <span>LinkedIn</span>
           </div>
 
         </div>
@@ -228,3 +237,4 @@ function Hero() {
 }
 
 export default Hero;
+
