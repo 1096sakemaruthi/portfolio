@@ -59,7 +59,7 @@ function ProjectDetails() {
 
         {/* Back to Home */}
         <a
-          href="/#projects"
+          href="/#cdms-project"
           className="project-back-btn"
         >
           <FaArrowLeft />

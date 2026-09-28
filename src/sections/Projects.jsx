@@ -98,6 +98,11 @@ function Projects() {
             <div
               className="project-card"
               key={project.number}
+              id={
+                project.number === "01"
+                  ? "cdms-project"
+                  : undefined
+              }
             >
 
               {/* Project Image */}

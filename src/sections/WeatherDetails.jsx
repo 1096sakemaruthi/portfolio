@@ -60,13 +60,13 @@ function WeatherDetails() {
     >
       <div className="container">
 
-        {/* Back to Projects */}
+        {/* Back to Home */}
         <a
           href="/#projects"
           className="project-back-btn"
         >
           <FaArrowLeft />
-          <span>Back to Projects</span>
+          <span>Back to Home</span>
         </a>
 
         {/* Project Heading */}
@@ -221,6 +221,7 @@ function WeatherDetails() {
               <p>
                 Major functionality implemented in the project.
               </p>
+
             </div>
 
           </div>
