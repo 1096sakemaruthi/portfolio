@@ -1,27 +1,20 @@
 # S.MARUTHI — Personal Developer Portfolio
 
 <p align="center">
-
   <img src="./src/assets/profile.png" alt="S.Maruthi" width="160" />
-
 </p>
 
 <h2 align="center">Hi, I'm S.Maruthi 👋</h2>
 
 <p align="center">
-
-  <b>B.Tech CSE Student | Full Stack Developer</b>
-
+  <b>B.Tech CSE Student | Fresher | Technology Learner</b>
 </p>
 
 <p align="center">
-
-  I build intelligent digital experiences with modern web technologies.
-
+  I am a passionate learner building my technical skills and practical knowledge.
 </p>
 
 <p align="center">
-
   <a href="https://portfolio-byk8.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge" alt="Portfolio" />
   </a>
@@ -33,26 +26,26 @@
   <a href="https://www.linkedin.com/in/maruthi5f9/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **S.Maruthi**, a B.Tech Computer Science student and aspiring Full Stack Developer.
+I'm **S.Maruthi**, a B.Tech Computer Science student and fresher.
 
-I enjoy building practical web applications, learning new technologies, solving programming problems, and creating clean and user-friendly digital experiences.
+I am a passionate learner interested in improving my technical skills, problem-solving abilities and practical knowledge by working on projects.
 
-I'm currently focused on improving my skills in:
+Currently, I have a foundation in:
 
-- Frontend Development
-- Backend Development
-- Java & Spring Boot
-- React.js
-- REST APIs
+- Python
 - MySQL
-- Full Stack Application Development
+- Git
+- GitHub
+- VS Code
+- LinkedIn
+
+I am continuously learning new technical skills and improving my programming knowledge.
 
 ---
 
@@ -60,35 +53,22 @@ I'm currently focused on improving my skills in:
 
 This portfolio showcases my:
 
-- 💻 Development skills
-- 📂 Real-world projects
+- 💻 Technical skills
+- 📂 Projects
 - 🎓 Education
 - 📜 Certifications
 - 📄 Resume
 - 📬 Contact information
 
-The portfolio is designed with a modern **professional + futuristic developer style**, combining clean layouts, glassmorphism, gradients, animations, and interactive elements.
+The portfolio follows a modern professional and futuristic design with clean layouts, glassmorphism, gradients, animations and interactive elements.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
-### Frontend
+### Programming
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- React Router
-- Vite
-
-### Backend
-
-- Java
-- Spring Boot
-- REST APIs
-- Node.js
-- Express.js
+- Python
 
 ### Database
 
@@ -99,7 +79,7 @@ The portfolio is designed with a modern **professional + futuristic developer st
 - Git
 - GitHub
 - VS Code
-- Render
+- LinkedIn
 
 ---
 
@@ -107,28 +87,14 @@ The portfolio is designed with a modern **professional + futuristic developer st
 
 ### 🍫 Chocolate Distribution Management System
 
-A full-stack chocolate distribution management application developed for managing products, customers, orders, and administrative operations.
-
-**Technologies:**
-
-`React` `Java` `Spring Boot` `MySQL`
+A project designed to manage chocolate products, customers, orders and distribution operations through an organized management system.
 
 **Features:**
 
-- Customer registration and login
-- Product browsing
-- Shopping cart
-- Place orders
-- Order history
-- Order details
-- Order cancellation
-- Admin dashboard
-- Product management
-- Customer management
-- Order management
-- Order status management
-- Reports
-- Admin password reset
+- Product Management
+- Customer Management
+- Order Management
+- Admin Dashboard
 
 <p>
   <a href="https://github.com/1096sakemaruthi/RK-Choco-Distributors">
@@ -144,19 +110,14 @@ A full-stack chocolate distribution management application developed for managin
 
 ### 🌦️ Weather Report
 
-A weather application that provides weather information using an external weather API.
-
-**Technologies:**
-
-`React` `Node.js` `Express.js` `MySQL` `OpenWeather API`
+A weather-related project created to display useful weather information and details for different cities.
 
 **Features:**
 
-- Search weather information
-- Real-time weather data
-- API integration
-- Responsive interface
-- Backend API integration
+- City Search
+- Weather Information
+- Weather Details
+- User-Friendly Interface
 
 <p>
   <a href="https://github.com/1096sakemaruthi/weather-report-simple">
@@ -233,14 +194,12 @@ My resume is available inside this repository.
 
 ## ⭐ Portfolio
 
-I'm continuously learning and improving my development skills by building real-world applications and exploring modern technologies.
+I'm continuously learning and improving my technical skills by building practical projects and exploring new technologies.
 
-If you find my projects interesting, feel free to explore the repositories and connect with me.
+Feel free to explore my projects and connect with me.
 
 ---
 
 <p align="center">
-
   Made with ❤️ by <b>S.Maruthi</b>
-
 </p>
