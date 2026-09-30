@@ -63,11 +63,7 @@ function App() {
         <Route
           path="/project/cdms"
           element={
-            <>
-              <Navbar />
-
-              <ProjectDetails />
-            </>
+            <ProjectDetails />
           }
         />
 
@@ -76,11 +72,7 @@ function App() {
         <Route
           path="/project/weather"
           element={
-            <>
-              <Navbar />
-
-              <WeatherDetails />
-            </>
+            <WeatherDetails />
           }
         />
 
